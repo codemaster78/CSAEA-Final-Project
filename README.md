@@ -25,21 +25,18 @@ Inspired by Tank's need to "teach apprentices the basics of rover guts," we've e
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/codemaster78/CSAEA-Final-Project.git
     ```
-    (Replace `<repository_url>` with the actual URL of your repository.)
 
 2.  **Navigate to the Project Directory**:
     ```bash
-    cd driving-quiz
+    cd CSAEA-Final-Project
     ```
-    (Replace `driving-quiz` with the actual name of your project directory.)
 
 3.  **Run the Quiz**:
     ```bash
-    python driving_quiz.py
+    python main.py
     ```
-    (Ensure you have Python installed on your system. If your file is named something else, replace `driving_quiz.py` with your file name.)
 
 4.  **Answer the Questions**: For each question, type the letter corresponding to your chosen answer (a, b, c, or d) and press Enter.
 
