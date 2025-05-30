@@ -42,8 +42,6 @@ def question(question,correct,a,b,c):
     elif ans =='d' and q4 == correct:
         score += 1
         print("Correct!")
-    elif ans != ('a' or 'b' or 'c' or 'd'):
-        print("Invalid input, skipping question")
     else:
         print("Incorrect")
 
