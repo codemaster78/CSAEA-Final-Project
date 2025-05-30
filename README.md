@@ -62,16 +62,9 @@ The `question()` function is the heart of it all. It handles showing you the que
 
 ---
 
-## What's Next?
+## Video example
 
-This quiz is just the beginning! We've got some ideas to make it even better for Tank's garage:
-
-* **More Questions!**: We could add a ton more questions, maybe even pull them from a separate file so it's easy to add new ones.
-* **Different Levels**: Imagine having an "Apprentice" level and a "Master Driver" level!
-* **Why Was I Wrong?**: It would be super helpful if the quiz explained *why* an answer was correct or incorrect.
-* **User Profiles**: Let everyone have their own score and track their progress over time.
-* **Make it Pretty**: Moving from a text-based interface to a graphical one (using something like Tkinter) would make it much more engaging.
-* **Timed Challenges**: Add a clock to some questions to really test your quick thinking.
+https://drive.google.com/file/d/1VVAA3AorsC3BFCk2sxiobO44vjfvAnja/preview
 
 ---
 
