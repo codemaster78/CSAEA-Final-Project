@@ -42,6 +42,8 @@ def question(question,correct,a,b,c):
     elif ans =='d' and q4 == correct:
         score += 1
         print("Correct!")
+    elif ans != ('a' or 'b' or 'c' or 'd'):
+        print("Invalid input, skipping question")
     else:
         print("Incorrect")
 
@@ -68,9 +70,6 @@ question("If your breaks suddenly give out, the thing you should try to do is: "
 time.sleep(3)
 cls()
 question("Approaching an uncontrolled intersection you should:","Reduce speed and be ready to stop","Stop","Speed up","Slow down and look straight ahead")
-time.sleep(3)
-cls()
-question("An acceleration lane is: ","An extra lane at the highway entrance","The passing lane","The left lane on a 2 lane highway","An extra lane at the highway entrance")
 time.sleep(3)
 cls()
 question("High beam lights are used for: ","Open country driving with no traffic","Signaling emergencies","Foggy weather","City streets without lights")
